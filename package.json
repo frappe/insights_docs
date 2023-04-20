@@ -1,0 +1,16 @@
+{
+  "name": "insights_docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "developers@frappe.io",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.10",
+    "vue": "^3.2.37"
+  }
+}
