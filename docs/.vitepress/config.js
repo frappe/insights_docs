@@ -10,11 +10,10 @@ export default defineConfig({
   titleTemplate: tagline,
   lastUpdated: true,
 	outDir: "../dist",
-	base: "/",
 
   head: [
-    ['link', { rel: 'icon', type: 'image/x-icon', href: 'favicon.png' }],
-    ['link', { rel: 'stylesheet', href:'style.css' }]
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }],
+    ['link', { rel: 'stylesheet', href:'/style.css' }]
   ],
 
   appearance: false,
