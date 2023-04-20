@@ -13,8 +13,8 @@ export default defineConfig({
 	base: "/",
 
   head: [
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/assets/insights_docs/docs/favicon.png' }],
-    ['link', { rel: 'stylesheet', href:'/assets/insights_docs/docs/style.css' }]
+    ['link', { rel: 'icon', type: 'image/x-icon', href: 'favicon.png' }],
+    ['link', { rel: 'stylesheet', href:'style.css' }]
   ],
 
   appearance: false,
@@ -24,7 +24,7 @@ export default defineConfig({
     nav: nav(),
     sidebar: sidebar(),
     editLink: {
-      pattern: 'https://github.com/nextchamp-saqib/insights_docs/edit/main/docs/:path',
+      pattern: 'https://github.com/frappe/insights_docs/edit/main/docs/:path',
       text: 'Edit this page on GitHub',
     },
     socialLinks: [
