@@ -4,4 +4,5 @@
 *.swp
 tags
 node_modules/
+insights_docs/public/docs
 dist/

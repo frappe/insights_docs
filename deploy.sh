@@ -3,7 +3,7 @@
 # abort on errors
 set -e
 
-yarn docs:build
+yarn build
 
 cd dist
 echo 'docs.frappeinsights.com' > CNAME
