@@ -4,7 +4,7 @@ Frappe Insights can be installed in several ways depending on your requirements.
 
 ## Insights Cloud
 
-You can also use the cloud version of Frappe Insights, hosted at [frappeinsights.com](https://frappeframework.com). This version provides all the features of the self-hosted version without the hassle of server maintenance. Sign up for a free account on the website to get started.
+You can also use the cloud version of Frappe Insights, hosted at [frappeinsights.com](https://frappeinsights.com). This version provides all the features of the self-hosted version without the hassle of server maintenance. Sign up for a free account on the website to get started.
 
 ## Frappe Cloud
 
