@@ -14,3 +14,22 @@ If your site is hosted on Frappe Cloud and you have **Dashboard** access then fo
 	</div>
 
 1. Then follow this [guide](/data-source/overview) to connect to your database.
+
+## Q. How do I view charts/dashboard on my Frappe/ERPNext Site?
+
+::: tip
+Check [this video](https://github.com/frappe/insights_docs/assets/25369014/8744b000-550a-479c-89d5-6bfe0bf142b7) if you want to embed a chart in your Frappe/ERPNext Workspace
+:::
+
+You can export your charts/dashboards as an `iframe` and embed it in anywhere on your site. 
+
+1. Click on the **Share** button in the visualization tab. 
+
+	![Share Chart](https://github.com/frappe/insights_docs/assets/25369014/96f43995-a174-4a3d-92bb-f6c9210c7342)
+
+1. Click on the **Copy iframe** button
+	
+	![Copy iframe link](https://github.com/frappe/insights_docs/assets/25369014/3b713944-7211-4acc-ad03-45c71235bfd4)
+
+
+
