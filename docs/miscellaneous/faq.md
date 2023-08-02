@@ -32,4 +32,12 @@ You can export your charts/dashboards as an `iframe` and embed it in anywhere on
 	![Copy iframe link](https://github.com/frappe/insights_docs/assets/25369014/3b713944-7211-4acc-ad03-45c71235bfd4)
 
 
+## Q. How do I join data from multiple data sources?
 
+It is possible to join data from multiple data source but it is quite cumbersome. We are working on improving this experience. For now, you can follow the steps below to join data from multiple data sources.
+
+1. Create a query for **each** of the data sources that you want to join.
+1. Make sure that the there is one **common** column in each of the queries that you want to join.
+1. After creating, click on the **Store Query** under menu to store in into the **Query Store** data source.
+1. Repeat the above steps for all the queries that you want to join.
+1. Now, create a new query and use the **Query Store** data source and join each of the queries by selecting them as a table.
