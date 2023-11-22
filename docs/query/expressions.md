@@ -7,7 +7,7 @@ You can use expressions to create calculate new columns from existing columns. F
 
 To create a custom column or filter, switch to the **Expressions** tab in the Columns/Filter section.
 
-![Expressions](./images/expressions.png)
+![Expression Editor](./images/expression-editor.png)
 
 ::: tip Expression Help
 You can start typing a method or function name to see a list of available options. You can also use the autocomplete feature to see an example of how to use the method or function.

@@ -2,9 +2,9 @@
 
 Transformations are a way to modify the data in your query. They are performed after the data is fetched from the database and before the data is displayed in the query result. You can add multiple transformations to your query.
 
-You can perform the following transformations by clicking on the 3-dot menu beside the title of the query.
+You can perform the following transformations by adding a transformation to your query in the Visual Query Builder by clicking on the **+** button next to the **Transform** section:
 
-![Transformations](./images/transformations.png)
+![Transform Popup](./images/transform-popup.png)
 
 ## Pivot
 

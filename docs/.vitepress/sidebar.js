@@ -17,6 +17,7 @@ export default function sidebar() {
 			collapsible: false,
 			items: [
 				{ text: "Overview", link: "/data-source/overview" },
+				{ text: "Managing Relations", link: "/data-source/managing-relationships" },
 			]
 		},
 		{
@@ -24,11 +25,13 @@ export default function sidebar() {
 			collapsible: false,
 			items: [
 				{ text: "Overview", link: "/query/overview" },
-				{ text: "Joining Data", link: "/query/joining-data" },
+				{ text: "Visual Query Builder", link: "/query/visual-query-builder" },
+				{ text: "SQL Editor", link: "/query/sql-editor" },
+				{ text: "Script Query Editor", link: "/query/script-query-editor" },
 				{ text: "Expressions", link: "/query/expressions" },
 				{ text: "Transformations", link: "/query/transformations" },
-				{ text: "SQL Editor", link: "/query/sql-editor" },
 				{ text: "Query Reusibility", link: "/query/query-reusibility" },
+				{ text: "Cross Data Source Joins", link: "/query/cross-data-source-joins" },
 			]
 		},
 		{
