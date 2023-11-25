@@ -4,7 +4,7 @@ The Script Query Editor is for technical users who want to write Python scripts 
 
 ![Script Query Editor](./images/script-query-editor.png)
 
-You need to be familiar with Frappe Framework's Server Scripts in order to make best use of the Script Query Editor. You can learn more about Server Scripts in the [Server Scripts](/docs/user/en/guides/basics/server-scripts) section.
+You need to be familiar with Frappe Framework's Script API in order to make best use of the Script Query Editor. You can learn more about the Script API [here](https://frappeframework.com/docs/user/en/desk/scripting/script-api).
 
 ::: warning
 **Dashboard Filters** are not supported with the queries created using the Script Query Editor.
