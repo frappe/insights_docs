@@ -24,7 +24,7 @@ _Create New Query_
 
 We will be using the **Visual Query Builder** interface to create our query. Once you select the interface, you will be taken to the query builder.
 
-![Empty Query Builder](./images/empty-query-builder.png)
+![Empty Query Builder](https://github.com/frappe/insights_docs/assets/25369014/aac7fe7c-9643-4531-975f-34dcabc29a56)
 
 The query builder has 3 sections:
 
@@ -43,16 +43,28 @@ To make a basic query to get the _total number of orders_, follow the steps belo
 3. Select the **Orders Count** column from the **Columns** section's **+** icon.
 4. Click on **Execute** to execute the query.
 
-![Total Order Count](./images/total-order-count.png)
+<video autoplay loop muted>
+  <source
+    src="https://github.com/frappe/insights_docs/assets/25369014/b2c9927e-dd75-44a7-b19a-02caef5b49a0"
+    type="video/mp4"
+  />
+  ![Total Orders](https://github.com/frappe/insights_docs/assets/25369014/4b0b7832-ecdc-491a-bd75-b8161c77888f)
+</video>
 
 Now, let's add a dimension to the query to get the _total number of orders placed per month_.
 
 1. Select the **Order Purchase Date** column from the **Columns** section.
 2. Also add a **Filter** to find only the orders that are delivered.
 
-You should end up with a query like this:
+<video autoplay loop muted>
+  <source
+    src="https://github.com/frappe/insights_docs/assets/25369014/19e75fe1-d4f2-4066-807c-f0999a29a7e7"
+    type="video/mp4"
+  />
+  ![Delivered Orders per Month](https://github.com/frappe/insights_docs/assets/25369014/45d2b0da-e435-4af0-b36f-c76148e451db)
+</video>
 
-![Orders Per Month](./images/orders-per-month.png)
+
 
 ## Visualization Options
 
