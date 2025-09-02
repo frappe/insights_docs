@@ -38,7 +38,7 @@ If you prefer to host Frappe Insights on your own server, you can choose one of 
 - **Docker Image**: Frappe Insights provides a Docker image that makes it easy to install and run on any platform that supports Docker.
 
   1. Clone the [Frappe Insights repository](https://github.com/frappe/insights)
-  2. `cd` into the `insights` directory and run `docker-compose up`
+  2. `cd` into the `insights/docker` directory and run `docker-compose up`
   3. The installation will be completed in a few minutes. Once the installation is complete, you can access Frappe Insights at `http://insights.test:8000/insights`.
 
 - **Manual Installation**: You can also install Frappe Insights manually on your server. This method requires more technical knowledge and may take longer to set up. Follow the instructions below to install Frappe Insights manually.
